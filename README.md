@@ -1,2 +1,2 @@
 # SimpleQr
-Just playing around with the google vision API
+Using the Google Vision API(Now called MobileVision)
